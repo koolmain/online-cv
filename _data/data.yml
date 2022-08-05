@@ -121,11 +121,13 @@ projects:
       - title: Chooose Climate App
         link: "https://vimeo.com/708561130"
         tagline: "Automate measuring and reporting on the carbon emissions associated with your company's corporate travel. Then, you can address these emissions by supporting verified, high-impact carbon reduction (through Sustainable Aviation Fuel), removal, or offset solutions.  The Climate App is built on SAP BTP, ensuring you manage your emissions in the same SAP solutions and workflows in which you already manage your other business processes. "
+        techonology: SAP BTP cloud (Business Technical Platform) , SAP CAP, Node js, Event Messaging framework (AMQP), SAP HANA, ODATA V4
 
-      - title: DevStudio
+      - title: CISN (Construction Site Logistics Network) App
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
+        tagline: "It provides a single platform for supplier (Material supplier) and consumer (Constructor) where they can directly connect to each and create order for materials for construction. Deliveries can be chased and in case of issue with any material, it can be replaced."
+        techonology: SAP BTP cloud (Business Technical Platform) , SAP CAP, Node js, Event Messaging framework (AMQP), SAP HANA, ODATA V4 
+        
       - title: Tempo
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"

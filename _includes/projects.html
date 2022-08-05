@@ -30,6 +30,9 @@
       {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
+      {% if project.techonology %}
+      - <span class="project-tagline">Technology :- {{ project.techonology }}</span>
+      {% endif %}
 
     </div><!--//item-->
   {% endfor %}
