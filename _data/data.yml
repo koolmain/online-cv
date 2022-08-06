@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: /online-cv/assets/images/Virendra_Mishra.pdf
 
     languages:
       - idiom: English
@@ -65,7 +65,7 @@ education:
 
 experiences:
     - role: Associate Architect
-      icon: 
+      icon: company/sap.jpeg
       time: July,2016 - Present
       company: SAP, Gurgaon
       details: |
@@ -81,7 +81,7 @@ experiences:
           - Bullet point
           - Bullet point
     - role: Senior Associate
-      icon: 
+      icon: company/sapient.jpeg
       time: Dec,2012 - June,2016
       company: Sapient, Noida
       details: |
@@ -93,7 +93,7 @@ experiences:
           - Bullet point
           - Bullet point
     - role: Software Engineer
-      icon: 
+      icon: company/centurylink.jpeg
       time: Dec,2010 - Nov,2012
       company: Centurylink
       details: |
@@ -105,7 +105,7 @@ experiences:
           - Bullet point
           - Bullet point
     - role: Software Engineer
-      icon: 
+      icon: company/evolko.png
       time: Oct,2008 - Sep,2010
       company: Evolko System Pvt Ltd
       details: |
