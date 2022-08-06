@@ -16,7 +16,20 @@
   </div><!--//intro-->
   {% endif %}
 
+  {% if strengths.strength %}
+  <div class="skillset">
+    <div class="item">
+      <h3 class="level-title">{{strengths.strength}}</h3>
+    </div>
+  </div>  
+  {% endif %}
 
-
+  {% if strengths.weakness %}
+  <div class="skillset">
+    <div class="item">
+      <h3 class="level-title">{{strengths.weakness}}</h3>
+    </div>
+  </div>  
+  {% endif %} 
 </section><!--//section-->
 {% endif %}
