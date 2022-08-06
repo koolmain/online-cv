@@ -6,19 +6,19 @@
    }
    .itemcard:before,.last-itemcard:after {
    background:#fff;
-   border:3px solid #42A8C0;
+   border:2px solid #42A8C0;
    border-radius:50%;
-   width:30px;
-   height:28px;
+   width:21px;
+   height:19px;
    display:inline-block;
    content:"";
    margin-left:1rem;
    position:relative;
    z-index:1;
-   left:calc(3% - 34px)
+   left:calc(3% - 31px)
    }
    .vertical-line {
-   width:3px;
+   width:2px;
    background-color:#42A8C0;
    position:absolute;
    left:calc(2% - 5px);
@@ -27,7 +27,7 @@
    }
    .itemcard .card-panel {
    margin:0;
-   margin:2rem 0 0 3rem
+   margin:0rem 0 0 3rem
    }
    .itemcard-date {
    margin-top:-60px;
