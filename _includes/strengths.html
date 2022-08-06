@@ -1,0 +1,22 @@
+{% assign strengths = site.data.data.strengths %}
+{% if strengths %}
+<section class="section strengths-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-dumbbell fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ strengths.title }}
+  </h2>
+
+  {% if strengths.intro %}
+  <div class="intro">
+    {{ strengths.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+
+
+</section><!--//section-->
+{% endif %}
