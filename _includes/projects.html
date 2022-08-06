@@ -17,16 +17,20 @@
   {% endif %}
 
   {% for project in projects.assignments %}
-    <div class="item">
+  <div class="itemcard" >
+     <i class="vertical-line"></i>  
+     <div class="card-panel"> 
+      <h4 class="card-title">
+        <b>
+          {% if project.link %}
+          <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+          {% else %}
+          {{ project.title }}
+          {% endif %}
+        </b>
+      </h4>
 
-      <span class="project-title"> <b>
-        {% if project.link %}
-        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
-        {% else %}
-        {{ project.title }}
-        {% endif %}
-      </b>
-      </span>
+    <div class="item">
 
       {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
@@ -36,6 +40,8 @@
       {% endif %}
 
     </div><!--//item-->
+    </div> <!-- card panel-->
+    </div> <!-- itemcard -->
   {% endfor %}
 
 </section><!--//section-->
