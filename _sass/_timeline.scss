@@ -1,7 +1,8 @@
 .itemcard {
    padding-top:0px;
    min-height:150px;
-   position:relative
+   position:relative;
+   padding-bottom: 12px;
    }
    .itemcard:before,.last-itemcard:after {
    background:#fff;
