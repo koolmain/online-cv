@@ -200,30 +200,39 @@ skills:
     toolset:
       - name: Java
         level: 90%
+        color: blue
 
       - name: JEE
         level: 80%
+        color: red
 
       - name: Spring
         level: 98%
+        color: green        
 
       - name: Spring mvc
         level: 98%
+        color: purple        
 
       - name: Spring Authentication
         level: 98%
+        color: green        
 
       - name: Oauth
         level: 98%
+        color: blue        
 
       - name: Node
         level: 95%
+        color: red        
 
       - name: Hybris
         level: 95%
+        color: indigo        
 
       - name: Scala
         level: 60%
+        color: purple        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
