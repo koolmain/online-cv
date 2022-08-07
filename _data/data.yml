@@ -86,11 +86,11 @@ experiences:
       company: Sapient, Noida
       details: |
         kslsdfdsfsdfsdfsdfsddf
-	        - Module lead
-	        - Hybris SME 
-	        - Individual contributor 
-	        - Code reviewer 
-          - Working on stories with unit and integration test 
+	         - Module lead
+	         - Hybris SME 
+	         - Individual contributor 
+	         - Code reviewer 
+           - Working on stories with unit and integration test 
 
     - role: Software Engineer
       icon: company/centurylink.jpeg
@@ -98,10 +98,10 @@ experiences:
       company: Centurylink
       details: |
         kslsdfdsfsdfsdfsdfsddf
-          - Individual contributor 
-	        - Story implementation 
-	        - Unit test & integration test 
-          - Peer review 
+           - Individual contributor 
+	         - Story implementation 
+	         - Unit test & integration test 
+           - Peer review 
 
     - role: Software Engineer
       icon: company/evolko.png
@@ -109,10 +109,10 @@ experiences:
       company: Evolko System Pvt Ltd
       details: |
         kslsdfdsfsdfsdfsdfsddf
-          - Individual contributor 
-	        - Story implementation 
-	        - Unit test & integration test 
-          - Peer review  
+           - Individual contributor 
+	         - Story implementation 
+	         - Unit test & integration test 
+           - Peer review  
 
 projects:
     title: Projects
