@@ -86,10 +86,10 @@ experiences:
       company: Sapient, Noida
       details: |
         kslsdfdsfsdfsdfsdfsddf
-	         - Module lead
-	         - Hybris SME 
-	         - Individual contributor 
-	         - Code reviewer 
+             - Module lead
+             - Hybris SME 
+             - Individual contributor 
+             - Code reviewer 
            - Working on stories with unit and integration test 
 
     - role: Software Engineer
@@ -99,8 +99,8 @@ experiences:
       details: |
         kslsdfdsfsdfsdfsdfsddf
            - Individual contributor 
-	         - Story implementation 
-	         - Unit test & integration test 
+           - Story implementation 
+           - Unit test & integration test 
            - Peer review 
 
     - role: Software Engineer
@@ -110,8 +110,8 @@ experiences:
       details: |
         kslsdfdsfsdfsdfsdfsddf
            - Individual contributor 
-	         - Story implementation 
-	         - Unit test & integration test 
+           - Story implementation 
+           - Unit test & integration test 
            - Peer review  
 
 projects:
