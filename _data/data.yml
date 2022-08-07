@@ -86,11 +86,11 @@ experiences:
       company: Sapient, Noida
       details: |
         kslsdfdsfsdfsdfsdfsddf
-             - Module lead
-             - Hybris SME 
-             - Individual contributor 
-             - Code reviewer 
-           - Working on stories with unit and integration test 
+          - Module lead
+          - Hybris SME 
+          - Individual contributor 
+          - Code reviewer 
+          - Working on stories with unit and integration test 
 
     - role: Software Engineer
       icon: company/centurylink.jpeg
