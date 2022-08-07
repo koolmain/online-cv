@@ -86,15 +86,11 @@ experiences:
       company: Sapient, Noida
       details: |
         kslsdfdsfsdfsdfsdfsddf
-          - New projects evaluation 
-          - Requirement gathering & Vision scope 
-          - Planning and Estimation of requirements
-          - Client discussion for major functionality design or issue discussion 
-          - Design and Development of application functionalities 
-          - Individual contributor 
-          - Hybris SME 
-          - Project Code reviewer 
-          - Internal/external interviewer 
+	        - Module lead
+	        - Hybris SME 
+	        - Individual contributor 
+	        - Code reviewer 
+          - Working on stories with unit and integration test 
 
     - role: Software Engineer
       icon: company/centurylink.jpeg
@@ -102,15 +98,10 @@ experiences:
       company: Centurylink
       details: |
         kslsdfdsfsdfsdfsdfsddf
-          - New projects evaluation 
-          - Requirement gathering & Vision scope 
-          - Planning and Estimation of requirements
-          - Client discussion for major functionality design or issue discussion 
-          - Design and Development of application functionalities 
           - Individual contributor 
-          - Hybris SME 
-          - Project Code reviewer 
-          - Internal/external interviewer 
+	        - Story implementation 
+	        - Unit test & integration test 
+          - Peer review 
 
     - role: Software Engineer
       icon: company/evolko.png
@@ -118,15 +109,10 @@ experiences:
       company: Evolko System Pvt Ltd
       details: |
         kslsdfdsfsdfsdfsdfsddf
-          - New projects evaluation 
-          - Requirement gathering & Vision scope 
-          - Planning and Estimation of requirements
-          - Client discussion for major functionality design or issue discussion 
-          - Design and Development of application functionalities 
           - Individual contributor 
-          - Hybris SME 
-          - Project Code reviewer 
-          - Internal/external interviewer 
+	        - Story implementation 
+	        - Unit test & integration test 
+          - Peer review  
 
 projects:
     title: Projects
