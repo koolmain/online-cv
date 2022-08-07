@@ -200,35 +200,56 @@ skills:
     toolset:
       - name: Java
         level: 90%
-        color: blue
+        tags:
+          - title: core 
+            color: 
+
+          - title: core 
+            color: 
+
+          - title: core 
+            color: 
+
 
       - name: JEE
         level: 80%
-        color: red
+        tags:        
 
       - name: Spring
         level: 98%
-        color: green        
+        tags:
+          - title: core 
+            color: indigo
 
-      - name: Spring mvc
-        level: 98%
-        color: purple        
+          - title: mvc 
+            color: purple
 
-      - name: Spring Authentication
-        level: 98%
-        color: green        
+          - title: authentication 
+            color: red                    
 
       - name: Oauth
         level: 98%
-        color: blue        
+        tags:       
 
       - name: Node
         level: 95%
-        color: red        
+        color: red  
+        tags:
+          - title: express  
+            color: indigo
+
+          - title: core 
+            color: green
+           
 
       - name: Hybris
         level: 95%
-        color: indigo        
+        tags:     
+          - title: impex  
+            color: indigo
+
+          - title: core 
+            color: green
 
       - name: Scala
         level: 60%
