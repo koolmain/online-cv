@@ -69,7 +69,7 @@ experiences:
       time: July,2016 - Present
       company: SAP, Gurgaon 1
       details: |
-        kslsdfdsfsdfsdfsdfsddf
+        Roles and responsibilities :- 
           - New projects evaluation 
           - Requirement gathering & Vision scope 
           - Planning and Estimation of requirements
@@ -85,7 +85,7 @@ experiences:
       time: Dec,2012 - June,2016
       company: Sapient, Noida
       details: |
-        kslsdfdsfsdfsdfsdfsddf
+        Roles and responsibilities :- 
           - Module lead
           - Hybris SME 
           - Individual contributor 
@@ -97,7 +97,7 @@ experiences:
       time: Dec,2010 - Nov,2012
       company: Centurylink
       details: |
-        kslsdfdsfsdfsdfsdfsddf
+        Roles and responsibilities :- 
            - Individual contributor 
            - Story implementation 
            - Unit test & integration test 
@@ -108,7 +108,7 @@ experiences:
       time: Oct,2008 - Sep,2010
       company: Evolko System Pvt Ltd
       details: |
-        kslsdfdsfsdfsdfsdfsddf
+        Roles and responsibilities :- 
            - Individual contributor 
            - Story implementation 
            - Unit test & integration test 
@@ -205,6 +205,15 @@ skills:
         level: 80%
 
       - name: Spring
+        level: 98%
+
+      - name: Spring mvc
+        level: 98%
+
+      - name: Spring Authentication
+        level: 98%
+
+      - name: Oauth
         level: 98%
 
       - name: Node
