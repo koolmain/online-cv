@@ -217,13 +217,13 @@ skills:
             color: indigo
 
           - title: Spring Expression Language(SpEL)
-            color: gray
+            color: purple
 
           - title: Aspect Oriented Programming 
             color: red                    
 
           - title: Spring MVC 
-            color: green
+            color: gray
 
           - title: Spring Security 
             color: blue
