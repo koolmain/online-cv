@@ -274,11 +274,11 @@ skills:
           - title: Search & Navigation  
             color: indigo
 
-          - title: Multi dimensional product 
-            color: green
-
           - title: Storefront  
             color: purple
+
+          - title: Multi dimensional product 
+            color: green
 
           - title: Configurable checkout 
             color: blue
@@ -300,21 +300,6 @@ skills:
 
           - title: Functional Programming 
             color: red
-
-          - title: WCMS  
-            color: indigo
-
-          - title: Backoffice configuration 
-            color: purple            
-
-          - title: Backoffice customization  
-            color: gray
-
-          - title: Apache Solr 
-            color: indigo
-
-          - title: Search & Navigation  
-            color: gray
      
 
 footer: >
