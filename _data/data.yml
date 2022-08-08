@@ -204,35 +204,40 @@ skills:
           - title: core 
             color: green
 
-          - title: core 
+          - title: Generics & Collection 
             color: indigo
 
-          - title: core 
+          - title: Thread 
             color: red
 
-
-      - name: JEE
-        level: 80%
-        tags:        
-
       - name: Spring
-        level: 98%
+        level: 80%
         tags:
-          - title: core 
+          - title: Core 
             color: indigo
 
-          - title: mvc 
+          - title: Spring Expression Language(SpEL)
             color: purple
 
-          - title: authentication 
+          - title: Aspect Oriented Programming 
             color: red                    
 
-      - name: Oauth
-        level: 98%
+          - title: Spring MVC 
+            color: indigo
+
+          - title: Spring Security 
+            color: purple
+  
+      - name: Kafka
+        level: 40%
         tags:       
 
+      - name: Oauth
+        level: 60%
+        tags:  
+
       - name: Node
-        level: 95%
+        level: 60%
         color: red  
         tags:
           - title: express  
@@ -243,16 +248,82 @@ skills:
            
 
       - name: Hybris
-        level: 95%
+        level: 80%
         tags:     
+          - title: Impex  
+            color: indigo
+
+          - title: CSV import/export 
+            color: green
+
+          - title: WCMS  
+            color: indigo
+
+          - title: Backoffice configuration 
+            color: green            
+
+          - title: Backoffice customization  
+            color: indigo
+
+          - title: Apache Solr 
+            color: green
+
+          - title: Search & Navigation  
+            color: indigo
+
+          - title: Multi dimensional product 
+            color: green
+
+          - title: Storefront  
+            color: indigo
+
+          - title: Configurable checkout 
+            color: green
+
+          - title: Assisted Service  
+            color: indigo
+
+          - title: OCC 
+            color: green
+
           - title: impex  
             color: indigo
 
           - title: core 
             color: green
 
-      - name: Scala
+          - title: impex  
+            color: indigo
+
+          - title: core 
+            color: green
+
+      - name: Spartacus
         level: 60%
+
+      - name: Scala
+        level: 40%
+        tags:     
+          - title: Core  
+            color: indigo
+
+          - title: Functional Programming 
+            color: green
+
+          - title: WCMS  
+            color: indigo
+
+          - title: Backoffice configuration 
+            color: green            
+
+          - title: Backoffice customization  
+            color: indigo
+
+          - title: Apache Solr 
+            color: green
+
+          - title: Search & Navigation  
+            color: indigo
      
 
 footer: >
