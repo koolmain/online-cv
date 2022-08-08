@@ -223,10 +223,10 @@ skills:
             color: red                    
 
           - title: Spring MVC 
-            color: indigo
+            color: green
 
           - title: Spring Security 
-            color: purple
+            color: blue
   
       - name: Kafka
         level: 40%
@@ -241,32 +241,35 @@ skills:
         color: red  
         tags:
           - title: express  
-            color: indigo
+            color: red
 
           - title: core 
-            color: green
+            color: purple
            
 
       - name: Hybris
         level: 80%
-        tags:     
+        tags:  
+          - title: core 
+            color: purple
+
           - title: Impex  
-            color: indigo
+            color: green
 
           - title: CSV import/export 
-            color: green
+            color: indigo
 
           - title: WCMS  
-            color: indigo
+            color: red
 
           - title: Backoffice configuration 
-            color: green            
-
-          - title: Backoffice customization  
-            color: indigo
+            color: blue            
 
           - title: Apache Solr 
-            color: green
+            color: purple
+
+          - title: Backoffice customization  
+            color: gray
 
           - title: Search & Navigation  
             color: indigo
@@ -275,28 +278,16 @@ skills:
             color: green
 
           - title: Storefront  
-            color: indigo
+            color: purple
 
           - title: Configurable checkout 
-            color: green
+            color: blue
 
           - title: Assisted Service  
             color: indigo
 
           - title: OCC 
-            color: green
-
-          - title: impex  
-            color: indigo
-
-          - title: core 
-            color: green
-
-          - title: impex  
-            color: indigo
-
-          - title: core 
-            color: green
+            color: red
 
       - name: Spartacus
         level: 60%
@@ -305,25 +296,25 @@ skills:
         level: 40%
         tags:     
           - title: Core  
-            color: indigo
+            color: green
 
           - title: Functional Programming 
-            color: green
+            color: red
 
           - title: WCMS  
             color: indigo
 
           - title: Backoffice configuration 
-            color: green            
+            color: purple            
 
           - title: Backoffice customization  
-            color: indigo
+            color: gray
 
           - title: Apache Solr 
-            color: green
+            color: indigo
 
           - title: Search & Navigation  
-            color: indigo
+            color: gray
      
 
 footer: >
