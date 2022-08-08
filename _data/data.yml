@@ -227,25 +227,6 @@ skills:
 
           - title: Spring Security 
             color: blue
-  
-      - name: Kafka
-        level: 40%
-        tags:       
-
-      - name: Oauth
-        level: 60%
-        tags:  
-
-      - name: Node
-        level: 60%
-        color: red  
-        tags:
-          - title: express  
-            color: red
-
-          - title: core 
-            color: purple
-           
 
       - name: Hybris
         level: 80%
@@ -291,6 +272,16 @@ skills:
 
       - name: Spartacus
         level: 60%
+
+      - name: Node
+        level: 60%
+        color: red  
+        tags:
+          - title: express  
+            color: red
+
+          - title: core 
+            color: purple
 
       - name: Scala
         level: 40%
