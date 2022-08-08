@@ -217,7 +217,7 @@ skills:
             color: indigo
 
           - title: Spring Expression Language(SpEL)
-            color: purple
+            color: gray
 
           - title: Aspect Oriented Programming 
             color: red                    
@@ -259,16 +259,16 @@ skills:
             color: purple
 
           - title: Multi dimensional product 
-            color: green
+            color: gray
+
+          - title: OCC 
+            color: red
 
           - title: Configurable checkout 
             color: blue
 
           - title: Assisted Service  
             color: indigo
-
-          - title: OCC 
-            color: red
 
       - name: Spartacus
         level: 60%
