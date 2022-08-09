@@ -42,4 +42,13 @@
      color: #ffffff !important;
    }
 
+   .vertical-line {
+      width:2px;
+      background-color:#42A8C0;
+      position:absolute;
+      left:calc(2% - 5px);
+      top:0;
+      bottom:0
+      }
+
 }
