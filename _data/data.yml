@@ -272,26 +272,61 @@ skills:
 
       - name: Spartacus
         level: 60%
+          - title: Angular  
+            color: green
+
+          - title: RxJS 
+            color: red
+ 
+          - title: NgRx  
+            color: indigo
+
 
       - name: Node
         level: 60%
         color: red  
         tags:
-          - title: express  
-            color: red
-
           - title: core 
             color: purple
 
+          - title: express  
+            color: red
+
       - name: Scala
-        level: 40%
+        level: 35%
         tags:     
           - title: Core  
             color: green
 
           - title: Functional Programming 
             color: red
-     
+ 
+          - title: ZIO  
+            color: blue
 
+          - title: Cats 
+            color: indigo            
+
+          - title: Cats-effect  
+            color: purple
+
+          - title: FS2
+            color: gray     
+
+          - title: Monocle  
+            color: green
+
+          - title: tapir
+            color: red  
+
+          - title: Slick
+            color: blue     
+
+          - title: Circe  
+            color: green
+
+          - title: Caliban
+            color: purple     
+                     
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
