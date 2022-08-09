@@ -271,7 +271,7 @@ skills:
             color: indigo
 
       - name: Spartacus
-        level: 60%
+        level: 40%
           - title: Angular  
             color: green
 
@@ -293,7 +293,7 @@ skills:
             color: red
 
       - name: Scala
-        level: 35%
+        level: 40%
         tags:     
           - title: Core  
             color: green
@@ -327,6 +327,6 @@ skills:
 
           - title: Caliban
             color: purple     
-                     
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
