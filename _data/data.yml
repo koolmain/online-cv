@@ -14,9 +14,9 @@ sidebar:
     # Sidebar links
     email: virend70@rediffmail.com
     phone: +91 9582176478
-    timezone: IST
+    timezone: IST (UTC+05:30)
     citizenship: Indian 
-    website: blog.webjeda.com #do not add http://
+    website:  #do not add http://
     linkedin: virendra-mishra-3b54831a
     xing: 
     github: 
@@ -291,33 +291,6 @@ skills:
 
           - title: Functional Programming 
             color: red
- 
-          - title: ZIO  
-            color: blue
-
-          - title: Cats 
-            color: indigo            
-
-          - title: Cats-effect  
-            color: purple
-
-          - title: FS2
-            color: gray     
-
-          - title: Monocle  
-            color: green
-
-          - title: tapir
-            color: red  
-
-          - title: Slick
-            color: blue     
-
-          - title: Circe  
-            color: green
-
-          - title: Caliban
-            color: purple   
      
 
 footer: >
