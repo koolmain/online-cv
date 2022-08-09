@@ -1,0 +1,332 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Virendra Kumar Mishra
+    tagline: Full Stack Developer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: virend70@rediffmail.com
+    phone: +91 9582176478
+    timezone: IST
+    citizenship: Indian 
+    website: blog.webjeda.com #do not add http://
+    linkedin: virendra-mishra-3b54831a
+    xing: 
+    github: 
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: /online-cv/assets/images/Virendra_Mishra.pdf
+
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Hindi 
+        level: Native
+
+    interests:
+      - item: football
+        link:
+
+      - item: Badminton
+        link:
+
+      - item: Computers
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Intend to associate myself through a long-time commitment with a professionally driven esteemed organization which offers continuous challenges and excellent growth prospects. I want to use my skills, experience and adaptability to the company's growth and in turn ensuring personal growth within the organization. I believe that my technical, functional and communication skills will enable me to live with the challenging career ahead. 
+education:
+    - degree: B.Tech (Computer Science & Engineering)
+      university: BBD (Uttar Pradesh Technical University)
+      time: 2004 - 2008
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
+
+experiences:
+    - role: Associate Architect
+      icon: company/sap.jpeg
+      time: July,2016 - Present
+      company: SAP, Gurgaon
+      details: |
+        Roles and responsibilities :- 
+          - New projects evaluation 
+          - Requirement gathering & Vision scope 
+          - Planning and Estimation of requirements
+          - Client discussion for major functionality design or issue discussion 
+          - Design and Development of application functionalities 
+          - Individual contributor 
+          - Hybris SME 
+          - Project Code reviewer 
+          - Internal/external interviewer 
+
+    - role: Senior Associates
+      icon: company/sapient.jpeg
+      time: Dec,2012 - June,2016
+      company: Sapient, Noida
+      details: |
+        Roles and responsibilities :- 
+          - Module lead
+          - Hybris SME 
+          - Individual contributor 
+          - Code reviewer 
+          - Working on stories with unit and integration test 
+
+    - role: Software Engineer
+      icon: company/centurylink.jpeg
+      time: Dec,2010 - Nov,2012
+      company: Centurylink
+      details: |
+        Roles and responsibilities :- 
+           - Individual contributor 
+           - Story implementation 
+           - Unit test & integration test 
+           - Peer review 
+
+    - role: Software Engineer
+      icon: company/evolko.png
+      time: Oct,2008 - Sep,2010
+      company: Evolko System Pvt Ltd
+      details: |
+        Roles and responsibilities :- 
+           - Individual contributor 
+           - Story implementation 
+           - Unit test & integration test 
+           - Peer review  
+
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Chooose Climate App
+        icon: 
+        link: "https://vimeo.com/708561130"
+        tagline: "Automate measuring and reporting on the carbon emissions associated with your company's corporate travel. Then, you can address these emissions by supporting verified, high-impact carbon reduction (through Sustainable Aviation Fuel), removal, or offset solutions.  The Climate App is built on SAP BTP, ensuring you manage your emissions in the same SAP solutions and workflows in which you already manage your other business processes. "
+        techonology: SAP BTP cloud (Business Technical Platform) , SAP CAP, Node js, Event Messaging framework (AMQP), SAP HANA, ODATA V4
+
+      - title: CISN (Construction Site Logistics Network) App
+        icon:
+        link: "#"
+        tagline: "It provides a single platform for supplier (Material supplier) and consumer (Constructor) where they can directly connect to each and create order for materials for construction. Deliveries can be chased and in case of issue with any material, it can be replaced."
+        techonology: SAP BTP cloud (Business Technical Platform) , SAP CAP, Node js, Event Messaging framework (AMQP), SAP HANA, ODATA V4 
+
+      - title: Samsung
+        icon: 
+        link: "https://www.samsung.com/uk/"
+        tagline: "Samsung B2C website which deals with selling samsung products to directly customers. It is across the world from UK , UAE, Asia, Russia. There is single codebase to deal all location. Any location specific changes are maintained in same codebase. It contains many other system interactions and many payment providers. "
+        techonology: SAP Hybris, Spartacus, Java 8, Spring 
+
+      - title: Mercury NZ
+        link: "https://www.mercury.co.nz/"
+        tagline: "Mercury is New zealand electriciry and gas provider. \n Mercury B2C Hybris implementation platform where customer can join for electricity and/or gas. It gets details from customer and provides offers. These offers are very configurable based on different parameters like location / customer index etc. These offers are created by Mercury business team to attract more business. "
+        techonology: SAP Hybris, Java 8, Spring, Oauth Authentication
+
+      - title: Asahi (Beverage Company)
+        icon: 
+        link: "https://www.asahidirect.com.au/"
+        tagline: "Its B2b platform where it sells beverages (alcohol and non-alcohol) to different companies."
+        techonology: SAP Hybris, Java 8, Spring,
+
+      - title: Hertiage Cananda
+        icon: 
+        link: "https://www.heritageservicegroup.ca/"
+        tagline: "B2b plaform where it sells OEM parts to companies. "
+        techonology: SAP Hybris, Java 8, Spring, B2B Punchout implementation with Birchstreet 
+
+      - title: Clas Ohlson
+        icon: 
+        link: "https://www.clasohlson.com/se/"
+        tagline: "This project is regarding selling the kitchenware, luggage and travelware, electrical tools, household electrical items etc.  It is complete ecommerce implementation using one of top rated ecommerce software"
+        techonology: SAP Hybris, Java 8, Spring, Endeca 
+
+      - title: TUI
+        icon:
+        link: "https://www.tui.co.uk/"
+        tagline: "This project is regarding the selling of holiday tours to user. This site was for Nordic countries (Sweden, Norway, Finland and Denmark). Tours are shown as country wise but user could be able to search for any destination, resort or hotel. Different offers are also displayed time to time which is maintained by different module. \n TUI is a multinational travel and tourism company. It is the largest leisure, travel and tourism company in the world, and owns travel agencies, hotels, airlines, cruise ships and retail stores. The group owns six European airlines - the largest holiday fleet in Europe - and UK-based tour operator Thomson. "
+        techonology: SAP Hybris, Java 8, Spring, Solr, Lucene, Endeca
+
+      - title: LadBrokes
+        icon:
+        link: "https://sports.ladbrokes.com/"
+        tagline: "Ladbrokes is a British-based betting and gambling company. It is based in Rayners Lane in Harrow, London. \n It is betting site where different ongoing games/events is shown with different odds available for betting. These odds gets changed an game progress. User could also able to see the events on the event page. It also has the odds for future events with odds define on pro-rated basi"
+        techonology: SAP Hybris, Java 8, Spring, Oracle coherence, Endeca
+
+      - title: Centurylink E-commerce Site
+        icon:
+        link: "https://www.centurylink.com/"
+        tagline: "This project is regarding the selling of holiday tours to user. This site was for Nordic countries (Sweden, Norway, Finland and Denmark). Tours are shown as country wise but user could be able to search for any destination, resort or hotel. Different offers are also displayed time to time which is maintained by different module. \n TUI is a multinational travel and tourism company. It is the largest leisure, travel and tourism company in the world, and owns travel agencies, hotels, airlines, cruise ships and retail stores. The group owns six European airlines - the largest holiday fleet in Europe - and UK-based tour operator Thomson. "
+        techonology: Struts, Spring , Jquery , vm
+
+      - title: Evolko Hospital Management System
+        icon:
+        link: "https://evolko.com/"
+        tagline: "It contains a full fledged patient Care System. where doctor can handle all the patient detail using software . This is designed to assist doctor in their everyday task. A strong prescription writer with following features allows doctor to have a paperless office in no time. App connected to Labs network and send and get investigation reports."
+        techonology: Java, EJB 3, Adobe Flex 3 , Actionscript 3
+
+publications:
+
+strengths: 
+  title: Strength 
+  intro: 
+  strength: Determinant ,quick learner , always interested for learning new technologies, Confident , Strong Willpower , Hard work, Honest
+  weakness:
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Java
+        level: 90%
+        tags:
+          - title: core 
+            color: green
+
+          - title: Generics & Collection 
+            color: indigo
+
+          - title: Thread 
+            color: red
+
+      - name: Spring
+        level: 80%
+        tags:
+          - title: Core 
+            color: indigo
+
+          - title: Spring Expression Language(SpEL)
+            color: purple
+
+          - title: Aspect Oriented Programming 
+            color: red                    
+
+          - title: Spring MVC 
+            color: gray
+
+          - title: Spring Security 
+            color: blue
+
+      - name: Hybris
+        level: 80%
+        tags:  
+          - title: core 
+            color: purple
+
+          - title: Impex  
+            color: green
+
+          - title: CSV import/export 
+            color: indigo
+
+          - title: WCMS  
+            color: red
+
+          - title: Backoffice configuration 
+            color: blue            
+
+          - title: Apache Solr 
+            color: purple
+
+          - title: Backoffice customization  
+            color: gray
+
+          - title: Search & Navigation  
+            color: indigo
+
+          - title: Storefront  
+            color: purple
+
+          - title: Multi dimensional product 
+            color: gray
+
+          - title: OCC 
+            color: red
+
+          - title: Configurable checkout 
+            color: blue
+
+          - title: Assisted Service  
+            color: indigo
+
+      - name: Spartacus
+        level: 40%
+          - title: Angular  
+            color: green
+
+          - title: RxJS 
+            color: red
+ 
+          - title: NgRx  
+            color: indigo
+
+
+      - name: Node
+        level: 60%
+        color: red  
+        tags:
+          - title: core 
+            color: purple
+
+          - title: express  
+            color: red
+
+      - name: Scala
+        level: 40%
+        tags:     
+          - title: Core  
+            color: green
+
+          - title: Functional Programming 
+            color: red
+ 
+          - title: ZIO  
+            color: blue
+
+          - title: Cats 
+            color: indigo            
+
+          - title: Cats-effect  
+            color: purple
+
+          - title: FS2
+            color: gray     
+
+          - title: Monocle  
+            color: green
+
+          - title: tapir
+            color: red  
+
+          - title: Slick
+            color: blue     
+
+          - title: Circe  
+            color: green
+
+          - title: Caliban
+            color: purple     
+            
+footer: >
+    
