@@ -117,9 +117,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Below are projects list in opposite choronological order (from latest to oldest)
     assignments:
       - title: Chooose Climate App
         icon: 
