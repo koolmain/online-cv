@@ -67,7 +67,7 @@ experiences:
     - role: Associate Architect
       icon: company/sap.jpeg
       time: July,2016 - Present
-      company: SAP, Gurgaon
+      company: SAP, Gurgaon 1
       details: |
         Roles and responsibilities :- 
           - New projects evaluation 
@@ -271,26 +271,17 @@ skills:
             color: indigo
 
       - name: Spartacus
-        level: 40%
-          - title: Angular  
-            color: green
-
-          - title: RxJS 
-            color: red
- 
-          - title: NgRx  
-            color: indigo
-
+        level: 60%
 
       - name: Node
         level: 60%
         color: red  
         tags:
-          - title: core 
-            color: purple
-
           - title: express  
             color: red
+
+          - title: core 
+            color: purple
 
       - name: Scala
         level: 40%
@@ -300,33 +291,7 @@ skills:
 
           - title: Functional Programming 
             color: red
- 
-          - title: ZIO  
-            color: blue
+     
 
-          - title: Cats 
-            color: indigo            
-
-          - title: Cats-effect  
-            color: purple
-
-          - title: FS2
-            color: gray     
-
-          - title: Monocle  
-            color: green
-
-          - title: tapir
-            color: red  
-
-          - title: Slick
-            color: blue     
-
-          - title: Circe  
-            color: green
-
-          - title: Caliban
-            color: purple     
-            
 footer: >
-    
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
