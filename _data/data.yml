@@ -14,9 +14,9 @@ sidebar:
     # Sidebar links
     email: virend70@rediffmail.com
     phone: +91 9582176478
-    timezone: IST (UTC+05:30)
+    timezone: IST
     citizenship: Indian 
-    website:  #do not add http://
+    website: blog.webjeda.com #do not add http://
     linkedin: virendra-mishra-3b54831a
     xing: 
     github: 
@@ -117,18 +117,18 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Below are projects list in opposite choronological order (from latest to oldest)
+      Below are the list of projects in opposite chronological (from latest to oldest).
     assignments:
       - title: Chooose Climate App
         icon: 
         link: "https://vimeo.com/708561130"
-        tagline: "This app is for Automatic measuring and reporting on the carbon emissions associated with company's corporate travel. Then, these emissions can be addressed by supporting verified, high-impact carbon reduction (through Sustainable Aviation Fuel), removal, or offset solutions.  The Climate App is built on SAP BTP, ensuring you manage your emissions in the same SAP solutions and workflows in which you already manage your other business processes. "
+        tagline: "Automate measuring and reporting on the carbon emissions associated with your company's corporate travel. Then, you can address these emissions by supporting verified, high-impact carbon reduction (through Sustainable Aviation Fuel), removal, or offset solutions.  The Climate App is built on SAP BTP, ensuring you manage your emissions in the same SAP solutions and workflows in which you already manage your other business processes. "
         techonology: SAP BTP cloud (Business Technical Platform) , SAP CAP, Node js, Event Messaging framework (AMQP), SAP HANA, ODATA V4
 
       - title: CISN (Construction Site Logistics Network) App
         icon:
         link: "#"
-        tagline: "It provides a single platform for supplier (Material supplier) and consumer (Constructor) where they can directly connect to each other and create order for materials for construction. Deliveries can be chased and in case of issue with any material, it can be asked for replacement."
+        tagline: "It provides a single platform for supplier (Material supplier) and consumer (Constructor) where they can directly connect to each and create order for materials for construction. Deliveries can be chased and in case of issue with any material, it can be replaced."
         techonology: SAP BTP cloud (Business Technical Platform) , SAP CAP, Node js, Event Messaging framework (AMQP), SAP HANA, ODATA V4 
 
       - title: Samsung
@@ -189,7 +189,7 @@ publications:
 strengths: 
   title: Strength 
   intro: 
-  strength: Determinant ,quick learner , always interested for learning new technologies, Confident , Strong Willpower , Hardworker, Honest
+  strength: Determinant ,quick learner , always interested for learning new technologies, Confident , Strong Willpower , Hard work, Honest
   weakness:
 
 skills:
