@@ -67,7 +67,7 @@ experiences:
     - role: Associate Architect
       icon: company/sap.jpeg
       time: July,2016 - Present
-      company: SAP, Gurgaon 1
+      company: SAP, Gurgaon
       details: |
         Roles and responsibilities :- 
           - New projects evaluation 
@@ -291,6 +291,33 @@ skills:
 
           - title: Functional Programming 
             color: red
+ 
+          - title: ZIO  
+            color: blue
+
+          - title: Cats 
+            color: indigo            
+
+          - title: Cats-effect  
+            color: purple
+
+          - title: FS2
+            color: gray     
+
+          - title: Monocle  
+            color: green
+
+          - title: tapir
+            color: red  
+
+          - title: Slick
+            color: blue     
+
+          - title: Circe  
+            color: green
+
+          - title: Caliban
+            color: purple   
      
 
 footer: >
