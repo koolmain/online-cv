@@ -67,7 +67,7 @@ experiences:
     - role: Associate Architect
       icon: company/sap.jpeg
       time: July,2016 - Present
-      company: SAP, Gurgaon
+      company: SAP, Gurgaon 1
       details: |
         Roles and responsibilities :- 
           - New projects evaluation 
@@ -117,7 +117,9 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Below are the list of projects in opposite chronological (from latest to oldest).
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Chooose Climate App
         icon: 
@@ -221,10 +223,29 @@ skills:
             color: red                    
 
           - title: Spring MVC 
-            color: gray
+            color: green
 
           - title: Spring Security 
             color: blue
+  
+      - name: Kafka
+        level: 40%
+        tags:       
+
+      - name: Oauth
+        level: 60%
+        tags:  
+
+      - name: Node
+        level: 60%
+        color: red  
+        tags:
+          - title: express  
+            color: red
+
+          - title: core 
+            color: purple
+           
 
       - name: Hybris
         level: 80%
@@ -253,14 +274,11 @@ skills:
           - title: Search & Navigation  
             color: indigo
 
+          - title: Multi dimensional product 
+            color: green
+
           - title: Storefront  
             color: purple
-
-          - title: Multi dimensional product 
-            color: gray
-
-          - title: OCC 
-            color: red
 
           - title: Configurable checkout 
             color: blue
@@ -268,18 +286,11 @@ skills:
           - title: Assisted Service  
             color: indigo
 
-      - name: Spartacus
-        level: 60%
-
-      - name: Node
-        level: 60%
-        color: red  
-        tags:
-          - title: express  
+          - title: OCC 
             color: red
 
-          - title: core 
-            color: purple
+      - name: Spartacus
+        level: 60%
 
       - name: Scala
         level: 40%
@@ -289,6 +300,21 @@ skills:
 
           - title: Functional Programming 
             color: red
+
+          - title: WCMS  
+            color: indigo
+
+          - title: Backoffice configuration 
+            color: purple            
+
+          - title: Backoffice customization  
+            color: gray
+
+          - title: Apache Solr 
+            color: indigo
+
+          - title: Search & Navigation  
+            color: gray
      
 
 footer: >
