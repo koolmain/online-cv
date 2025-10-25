@@ -35,6 +35,20 @@
       {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
+      {% if project.arch_highlight %}
+      - <div class="company">Architecture Highlights :-</div>
+      <ul>
+        {% for highlight in project.arch_highlight %}
+        <li>{{ highlight }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+      {% if project.tech_highlight %}
+      - <div class="company">Technology Highlights :- {{ project.tech_highlight }}</div>
+      {% endif %}
+      {% if project.roles_n_responsibilities %}
+      - <div class="company">Roles & Responsibilities :- {{ project.roles_n_responsibilities }}</div>
+      {% endif %}      
       {% if project.techonology %}
       - <div class="company">Technology :- {{ project.techonology }}</div>
       {% endif %}
