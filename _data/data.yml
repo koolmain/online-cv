@@ -526,21 +526,8 @@ skills:
           - title: Assisted Service  
             color: indigo
 
-      - name: Spartacus
-        level: 40%
-        tags:          
-          - title: Angular  
-            color: green
-
-          - title: RxJS 
-            color: red
- 
-          - title: NgRx  
-            color: indigo
-
-
       - name: Node
-        level: 60%
+        level: 70%
         color: red  
         tags:
           - title: core 
@@ -607,6 +594,18 @@ skills:
           - title: CI/CD
             color: red
 
+      - name: Spartacus
+        level: 40%
+        tags:          
+          - title: Angular  
+            color: green
+
+          - title: RxJS 
+            color: red
+ 
+          - title: NgRx  
+            color: indigo
+            
       - name: Scala
         level: 40%
         tags:     
