@@ -124,76 +124,131 @@ projects:
         icon: 
         link: ""
         arch_highlight:
-          - "First architecture highlight"
-          - "Second architecture highlight" 
-          - "Third architecture highlight"
+          - "Reactive Microservices: Built with Spring Boot (WebFlux) and Node.js, leveraging Project Reactor for non-blocking, reactive flows."
+          - "Event-Driven Architecture: Utilized Kafka and RxJS for asynchronous inter-service communication."
+          - "Multitenancy Support: Tenant-based data isolation using Redis caching and contextual request scoping."
+          - "Resiliency Patterns: Implemented retry, circuit breaker, and fallback mechanisms using Resilience4j."
+          - "Chaos Engineering: Performed failure injection tests with Chaos Monkey to validate resilience."
+          - "Cloud-Native Deployment: Hosted on SAP Cloud Foundry, integrated CI/CD pipelines using Jenkins + Piper."
         tech_highlight:
+          - "Converted blocking APIs to non-blocking reactive endpoints with WebFlux and R2DBC, improving concurrent user handling."
+          - "Redis-based caching for static metadata and frequently accessed tenant information to cut DB roundtrips."
+          - "Tuned Kafka consumer parallelism and batch sizes for high-throughput event processing."
+          - "Implemented autoscaling policies in Cloud Foundry to scale pods dynamically based on CPU/memory thresholds."
+          - "Configured G1GC tuning and thread pool optimizations to minimize GC latency under high load."
+          - "Load testing & Chaos Testing"
+          - "JMeter and K6, validating SLAs under 5K concurrent users."
+          - "Simulated high-volume data ingestion using K6"
+          - "Validated fault tolerance under simulated Kafka node failures using chaos monkey"          
+          - "Autoscaling policies in Cloud Foundry based on CPU/memory thresholds."
+          - "Event-driven asynchronous flows allow horizontal service scaling."
+          - "Multitenant architecture isolates tenants for independent scaling."
+          - "Redis caching reduces DB contention during spikes."          
         roles_n_responsibilities:
+          - "Owned end-to-end architecture, from domain modeling and service decomposition to deployment topology."
+          - "Defined microservice interaction contracts (API-first approach)."
+          - "Designed observability strategy - logs (ELK), metrics (Dynatrace), and traces (OpenTelemetry)"
+          - "Conducted architecture reviews and code audits to ensure performance, scalability, and best practices."
+          - "Mentored development teams on reactive programming and event-driven design principles."
+          - "Drove DevOps enablement, aligning CI/CD and monitoring with architectural vision."
         tagline: "Automate measuring and reporting on the carbon emissions associated with your company's corporate travel. Then, you can address these emissions by supporting verified, high-impact carbon reduction (through Sustainable Aviation Fuel), removal, or offset solutions.  The Climate App is built on SAP BTP, ensuring you manage your emissions in the same SAP solutions and workflows in which you already manage your other business processes. "
         techonology: SAP BTP cloud (Business Technical Platform) , SAP CAP, Node js, Event Messaging framework (AMQP), SAP HANA, ODATA V4
 
       - title: Chooose Climate App
         icon: 
         link: "https://vimeo.com/708561130"
+        arch_highlight:
+        tech_highlight:
+        roles_n_responsibilities:        
         tagline: "Automate measuring and reporting on the carbon emissions associated with your company's corporate travel. Then, you can address these emissions by supporting verified, high-impact carbon reduction (through Sustainable Aviation Fuel), removal, or offset solutions.  The Climate App is built on SAP BTP, ensuring you manage your emissions in the same SAP solutions and workflows in which you already manage your other business processes. "
         techonology: SAP BTP cloud (Business Technical Platform) , SAP CAP, Node js, Event Messaging framework (AMQP), SAP HANA, ODATA V4
 
       - title: CISN (Construction Site Logistics Network) App
         icon:
         link: "#"
+        arch_highlight:
+        tech_highlight:
+        roles_n_responsibilities:          
         tagline: "It provides a single platform for supplier (Material supplier) and consumer (Constructor) where they can directly connect to each and create order for materials for construction. Deliveries can be chased and in case of issue with any material, it can be replaced."
         techonology: SAP BTP cloud (Business Technical Platform) , SAP CAP, Node js, Event Messaging framework (AMQP), SAP HANA, ODATA V4 
 
       - title: Samsung
         icon: 
         link: "https://www.samsung.com/uk/"
+        arch_highlight:
+        tech_highlight:
+        roles_n_responsibilities:          
         tagline: "Samsung B2C website which deals with selling samsung products to directly customers. It is across the world from UK , UAE, Asia, Russia. There is single codebase to deal all location. Any location specific changes are maintained in same codebase. It contains many other system interactions and many payment providers. "
         techonology: SAP Hybris, Spartacus, Java 8, Spring 
 
       - title: Mercury NZ
         link: "https://www.mercury.co.nz/"
+        arch_highlight:
+        tech_highlight:
+        roles_n_responsibilities:          
         tagline: "Mercury is New zealand electriciry and gas provider. \n Mercury B2C Hybris implementation platform where customer can join for electricity and/or gas. It gets details from customer and provides offers. These offers are very configurable based on different parameters like location / customer index etc. These offers are created by Mercury business team to attract more business. "
         techonology: SAP Hybris, Java 8, Spring, Oauth Authentication
 
       - title: Asahi (Beverage Company)
         icon: 
         link: "https://www.asahidirect.com.au/"
+        arch_highlight:
+        tech_highlight:
+        roles_n_responsibilities:          
         tagline: "Its B2b platform where it sells beverages (alcohol and non-alcohol) to different companies."
         techonology: SAP Hybris, Java 8, Spring,
 
       - title: Hertiage Cananda
         icon: 
         link: "https://www.heritageservicegroup.ca/"
+        arch_highlight:
+        tech_highlight:
+        roles_n_responsibilities:          
         tagline: "B2b plaform where it sells OEM parts to companies. "
         techonology: SAP Hybris, Java 8, Spring, B2B Punchout implementation with Birchstreet 
 
       - title: Clas Ohlson
         icon: 
         link: "https://www.clasohlson.com/se/"
+        arch_highlight:
+        tech_highlight:
+        roles_n_responsibilities:          
         tagline: "This project is regarding selling the kitchenware, luggage and travelware, electrical tools, household electrical items etc.  It is complete ecommerce implementation using one of top rated ecommerce software"
         techonology: SAP Hybris, Java 8, Spring, Endeca 
 
       - title: TUI
         icon:
         link: "https://www.tui.co.uk/"
+        arch_highlight:
+        tech_highlight:
+        roles_n_responsibilities:          
         tagline: "This project is regarding the selling of holiday tours to user. This site was for Nordic countries (Sweden, Norway, Finland and Denmark). Tours are shown as country wise but user could be able to search for any destination, resort or hotel. Different offers are also displayed time to time which is maintained by different module. \n TUI is a multinational travel and tourism company. It is the largest leisure, travel and tourism company in the world, and owns travel agencies, hotels, airlines, cruise ships and retail stores. The group owns six European airlines - the largest holiday fleet in Europe - and UK-based tour operator Thomson. "
         techonology: SAP Hybris, Java 8, Spring, Solr, Lucene, Endeca
 
       - title: LadBrokes
         icon:
         link: "https://sports.ladbrokes.com/"
+        arch_highlight:
+        tech_highlight:
+        roles_n_responsibilities:          
         tagline: "Ladbrokes is a British-based betting and gambling company. It is based in Rayners Lane in Harrow, London. \n It is betting site where different ongoing games/events is shown with different odds available for betting. These odds gets changed an game progress. User could also able to see the events on the event page. It also has the odds for future events with odds define on pro-rated basi"
         techonology: SAP Hybris, Java 8, Spring, Oracle coherence, Endeca
 
       - title: Centurylink E-commerce Site
         icon:
         link: "https://www.centurylink.com/"
+        arch_highlight:
+        tech_highlight:
+        roles_n_responsibilities:          
         tagline: "This project is regarding the selling of holiday tours to user. This site was for Nordic countries (Sweden, Norway, Finland and Denmark). Tours are shown as country wise but user could be able to search for any destination, resort or hotel. Different offers are also displayed time to time which is maintained by different module. \n TUI is a multinational travel and tourism company. It is the largest leisure, travel and tourism company in the world, and owns travel agencies, hotels, airlines, cruise ships and retail stores. The group owns six European airlines - the largest holiday fleet in Europe - and UK-based tour operator Thomson. "
         techonology: Struts, Spring , Jquery , vm
 
       - title: Evolko Hospital Management System
         icon:
         link: "https://evolko.com/"
+        arch_highlight:
+        tech_highlight:
+        roles_n_responsibilities:          
         tagline: "It contains a full fledged patient Care System. where doctor can handle all the patient detail using software . This is designed to assist doctor in their everyday task. A strong prescription writer with following features allows doctor to have a paperless office in no time. App connected to Labs network and send and get investigation reports."
         techonology: Java, EJB 3, Adobe Flex 3 , Actionscript 3
 
