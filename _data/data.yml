@@ -463,8 +463,26 @@ skills:
           - title: Generics & Collection 
             color: indigo
 
-          - title: Thread 
+          - title: Concurrency
             color: red
+
+          - title: Exception Handling 
+            color: indigo
+
+          - title: Collection Framework 
+            color: gray   
+
+          - title: Stream API
+            color: purple      
+
+          - title: Functional Programming Concepts 
+            color: indigo
+
+          - title: Memory Management & Garbage Collection
+            color: gray
+
+          - title: Design Patterns
+            color: yellow                 
 
       - name: Spring
         level: 80%
