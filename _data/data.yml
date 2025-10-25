@@ -120,6 +120,18 @@ projects:
     intro: >
       Below are the list of projects in opposite chronological (from latest to oldest) -
     assignments:
+      - title: Life Science Product
+        icon: 
+        link: ""
+        arch_highlight:
+          - "First architecture highlight"
+          - "Second architecture highlight" 
+          - "Third architecture highlight"
+        tech_highlight:
+        roles_n_responsibilities:
+        tagline: "Automate measuring and reporting on the carbon emissions associated with your company's corporate travel. Then, you can address these emissions by supporting verified, high-impact carbon reduction (through Sustainable Aviation Fuel), removal, or offset solutions.  The Climate App is built on SAP BTP, ensuring you manage your emissions in the same SAP solutions and workflows in which you already manage your other business processes. "
+        techonology: SAP BTP cloud (Business Technical Platform) , SAP CAP, Node js, Event Messaging framework (AMQP), SAP HANA, ODATA V4
+
       - title: Chooose Climate App
         icon: 
         link: "https://vimeo.com/708561130"
