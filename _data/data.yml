@@ -549,6 +549,64 @@ skills:
           - title: express  
             color: red
 
+      - name: Databases
+        level: 70%
+        tags:          
+          - title: PostgreSQL
+            color: green
+
+          - title: MySQL 
+            color: gray
+ 
+          - title: SAP HANA  
+            color: blue
+
+          - title: MongoDB
+            color: green
+
+          - title: Cassandra
+            color: purple
+
+      - name: Docker
+        level: 60%
+        tags:          
+          - title: Core Concepts
+            color: green
+
+          - title: Architecture
+            color: gray
+ 
+          - title: Images
+            color: blue
+
+          - title: Containers
+            color: green
+
+          - title: Docker Compose
+            color: red
+
+
+      - name: Kubernetes
+        level: 60%
+        tags:          
+          - title: Core Concepts
+            color: green
+
+          - title: Configuration  
+            color: gray
+
+          - title: Security
+            color: green
+
+          - title: Monitoring
+            color: red        
+
+          - title: kubectl
+            color: green
+
+          - title: CI/CD
+            color: red
+
       - name: Scala
         level: 40%
         tags:     
