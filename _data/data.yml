@@ -499,8 +499,23 @@ skills:
           - title: Spring MVC 
             color: gray
 
+          - title: Spring WebFlux
+            color: green            
+
           - title: Spring Security 
             color: blue
+
+          - title: Spring Kafka 
+            color: yellow
+
+          - title: Spring Cloud Consul 
+            color: blue
+
+          - title: Spring Cloud Config
+            color: blue    
+
+          - title: Spring Cloud Vault 
+            color: blue                                              
 
       - name: Hybris
         level: 80%
